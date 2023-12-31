@@ -9,7 +9,7 @@ app.use(express.json());
 
 // Sample route
 app.get("/", (req, res) => {
-  res.send("Hello, this is your Express.js yooo!");
+  res.send("Hello, this is your Express.js 3!");
 });
 
 // Route with parameters
